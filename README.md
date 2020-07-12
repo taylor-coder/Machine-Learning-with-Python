@@ -10,6 +10,6 @@ At a glance, it appears that two of the most common factors for increased health
 
 My results - compared to the results shown in the article link provided below - show that insurance companies are likely to attach a strong paying premium to smokers and older persons. This revelation coincides with what the general consensus (research and policies pertaining to smoking and surcharges) provides. 
 
-sources: 
+Sources: 
 https://www.kaggle.com/annetxu/health-insurance-cost-predicition
 https://medium.com/analytics-vidhya/predicting-medical-insurance-costs-machine-learning-e1e4e7c4e8ed
