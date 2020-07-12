@@ -4,7 +4,7 @@
 
 Medical insurance costs prediction - machine learning via Python
 
-After reading an interesting article showing how someone predicted medical insurance costs via linear regression, I decided to redo the project. 
+After reading an interesting article showing how someone predicted medical insurance costs via linear regression, I decided to go through the code, try to break the code, and see how the code works under various circumstances. 
 
 From my analysis, it appears that one of the most common factors for increased health insurance risk factors may be someone's smoking status. 
 
